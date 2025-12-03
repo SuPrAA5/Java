@@ -11,7 +11,7 @@ public class Arraysub {
 	    
 	    int eindex=sc.nextInt();
 	    
-	    Arraysub.subArray(myarr[],2,3);
+	    Arraysub.subArray(arr,sindex,eindex);
 
 	}
 
@@ -24,3 +24,4 @@ public class Arraysub {
 	}
 
 }
+
